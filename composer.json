@@ -1,0 +1,31 @@
+{
+  "name": "marcelo-sramos/msramos",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Marcelo Souza Ramos",
+      "email": "ramos.marcelosouza@gmail.com"
+    }
+  ],
+  "require": {
+    "smarty/smarty": "3.1.x-dev",
+    "twbs/bootstrap": "v4.4.1",
+    "tinymce/tinymce": "5.1.6",
+    "nolimits4web/swiper": "v4.5.3",
+    "phery/phery": "3.0.0-alpha.5",
+    "nicolafranchini/venobox": "1.8.6",
+    "components/jquery": "3.4.1",
+    "ext-pdo": "*",
+    "fortawesome/font-awesome": "v4.7.0",
+    "snapappointments/bootstrap-select": "1.12.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Modelo\\": "app/models",
+      "Controle\\": "app/controllers",
+      "Funcao\\": "library/funcoes"
+    }
+  }
+}

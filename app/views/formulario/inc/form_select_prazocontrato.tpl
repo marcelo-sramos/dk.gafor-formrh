@@ -1,0 +1,14 @@
+<option value="0"{$praz_contrato[0]}>Nenhum</option>
+<option value="1"{$praz_contrato[1]}>45 + 45 Dias</option>
+<option value="2"{$praz_contrato[2]}>90 Dias</option>
+<option value="3"{$praz_contrato[3]}>Prazo Determinado</option>
+<option value="4"{$praz_contrato[4]}>Indeterminado</option>
+<option value="5"{$praz_contrato[5]}>Prazo determinado estagio -1 ano</option>
+<option value="6"{$praz_contrato[6]}>Prazo Determ (aprendiz ITU)</option>
+<option value="7"{$praz_contrato[7]}>Prazo determinado estagio -2 ano</option>
+<option value="8"{$praz_contrato[8]}>Aprendiz Ipojuca CIEE</option>
+<option value="9"{$praz_contrato[9]}>Aprendiz Ipojuca CIEE II</option>
+<option value="10"{$praz_contrato[10]}>Aprendiz (730 dias)</option>
+<option value="11"{$praz_contrato[11]}>Prazo Determ (aprendiz ITU) II</option>
+<option value="12"{$praz_contrato[12]}>Indeterminado</option>
+<option value="13"{$praz_contrato[13]}>Aprendiz SP-LBV</option>
